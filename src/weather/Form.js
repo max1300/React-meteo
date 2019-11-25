@@ -7,7 +7,7 @@ const Form = (props) => {
                 <input
                     type="text"
                     name="city"
-                    placeholder="Ville..."
+                    placeholder="Rentrez ici votre ville..."
                 />
             </div>
             <button className="btn btn-success mb-2"> voir </button>

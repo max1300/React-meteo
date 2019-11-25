@@ -4,7 +4,7 @@ import WeatherForecast from "./WeatherForecast";
 
 
 const Forecast = (props) => {
-    const API_KEY = "CLE OPENWEATHERMAP";
+    const API_KEY = "3bfbdc58da2ac21b8127bc0d6a7097a4";
     const [data, setData] = useState([]);
 
     const city = props.match.params.city;

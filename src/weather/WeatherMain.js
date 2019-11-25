@@ -3,9 +3,8 @@ import Axios from "axios";
 import Form from "./Form";
 import Weather from "./Weather";
 
-
 const WeatherMain = () => {
-    const API_KEY = "CLE OPENWEATHERMAP";
+    const API_KEY = "3bfbdc58da2ac21b8127bc0d6a7097a4";
     const [data, setData] = useState([]);
 
     const useAxios = async(e) => {
@@ -27,7 +26,6 @@ const WeatherMain = () => {
     return (
         <>
             <div className="container" style={{textAlign: "center"}}>
-                <h1>WEATHER APP</h1>
                 <Form getWeather={useAxios}/>
                 <Weather data={data}/>
             </div>

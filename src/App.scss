@@ -2,9 +2,30 @@ body{
   text-align: center;
 }
 
+header{
+  background-color: darkgray;
+}
+
 h1{
   margin-bottom: 3%;
+  color: #333333;
 }
+
+input{
+  width: 30%;
+  border-color: #333333;
+  border-top: none;
+  border-left: none;
+  border-right: none;
+}
+
+.card-text-center{
+  border: solid;
+  margin-bottom: 2%;
+  margin-top: 2%;
+  width: 100%;
+}
+
 .App {
   text-align: center;
 }

@@ -2,16 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1c05b631-044c-4a2a-abd8-88c6d8955cb9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icon/Icon.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/icon/Icon.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/weather/Card.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/weather/Card.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/weather/Forecast.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/weather/Forecast.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/weather/Form.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/weather/Form.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/weather/Weather.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/weather/Weather.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/weather/WeatherForecast.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/weather/WeatherForecast.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/weather/WeatherMain.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/weather/WeatherMain.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -34,6 +34,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../react-class-function-component" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -93,6 +94,7 @@
       <updated>1574529759913</updated>
       <workItem from="1574529764814" duration="4463000" />
       <workItem from="1574606520742" duration="18757000" />
+      <workItem from="1574670046509" duration="6698000" />
     </task>
     <servers />
   </component>
